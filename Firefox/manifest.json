@@ -1,0 +1,40 @@
+{
+  "manifest_version": 2,
+  "name": "FBWLS",
+  "version": "1.0",
+
+  "description": "Removes 'Popular Across Facebook' and 'Sponsored' posts from Facebook",
+
+  "icons": {
+    "210": "icon.jpeg"
+  },
+
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.facebook.com/*", "*://*.fb.com/*"],
+      "js": ["fb.js"]
+    }
+  ],
+  
+  "options_ui": {
+    "page": "options.html"
+  },
+
+  "permissions": ["storage"],
+
+  "applications": {
+    "gecko": {
+      "id": "fbwls@laudalassun.com"
+    }
+  },
+	"browser_action": {
+		"browser_style": true,
+		"default_popup": "options.html",
+		"default_icon": {
+	  		"16": "icon.jpeg",
+	  		"32": "icon.jpeg"
+
+		}
+	}
+}
