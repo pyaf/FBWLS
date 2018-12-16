@@ -16,5 +16,10 @@ html, body {
   background-color:  #92b8f4;
 }
 .form{
-	margin: 10px;
+	margin: 15px;
+  margin-bottom: 20px;
+}
+.stats{
+  /*margin-right: 5px !important;*/
+  margin-left: 30%;
 }
