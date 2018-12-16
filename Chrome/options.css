@@ -1,0 +1,24 @@
+html, body {
+  width: 400px;
+  margin: 5px;
+  background-color: #D6E4F9;
+}
+
+.page-choice {
+  width: 100%;
+  padding: 4px;
+  font-size: 1.5em;
+  text-align: center;
+  cursor: pointer;
+}
+
+.page-choice:hover {
+  background-color:  #92b8f4;
+}
+.form{
+	margin: 10px;
+}
+.stats{
+  /*margin-right: 5px !important;*/
+  margin-left: 30%;
+}

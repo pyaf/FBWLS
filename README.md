@@ -5,4 +5,4 @@ A web extention to remove "Sponsored" and "Popular Across Facebook" posts from t
 ### To-Do
 
 - [x] Firefox support
-- [ ] Google Chrome support
+- [x] Google Chrome support
