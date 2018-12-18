@@ -19,7 +19,7 @@ html, body {
 	margin: 15px;
   margin-bottom: 20px;
 }
-.stats{
-  /*margin-right: 5px !important;*/
-  margin-left: 30%;
+#stat_div{
+  margin-left: 5%;
+  margin-bottom: 5%;
 }
