@@ -25,3 +25,4 @@ You can load this extension locally without having to download it from the exten
 * Visit `about:debugging` in your Firefox browser.
 * Click on Load Temporary Add-on.
 * Select the manifest.json within the downloaded extension’s folder.
+* Note: If you want to use the add-on across restarts, you could also upload it [here](https://addons.mozilla.org/en-US/developers/) for self distribution, download it and drag the file on Firefox.
