@@ -2,7 +2,8 @@
 
 A web extention to remove "Sponsored" and "Popular Across Facebook" posts from the Facebook feed.
 
-Available for Chrome [here](https://chrome.google.com/webstore/detail/facebook-with-less-shit/hiohbfomcpigkglfdipbpnigleemklfg) and for Firefox [here](https://addons.mozilla.org/en-US/firefox/addon/facebook-with-less-shit/)
+Available for Firefox [here](https://addons.mozilla.org/en-US/firefox/addon/facebook-with-less-shit/). 
+The chrome version was removed from Chrome Web store because of "Facebook" in the name of the extension :( Instead, you can install the extension for Chrome following the instructions given below.
 
 ![A screenshot of the extension](icons/screenshot.png "A screenshot of the extension")
 
