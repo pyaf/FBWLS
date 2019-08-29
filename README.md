@@ -1,4 +1,4 @@
-# Facebook with less shit
+# Facebook with less sh*t
 
 A web extention to remove "Sponsored" and "Popular Across Facebook" posts from the Facebook feed.
 
